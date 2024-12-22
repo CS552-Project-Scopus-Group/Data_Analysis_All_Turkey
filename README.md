@@ -4,6 +4,7 @@ Scopus ile Türkiye'de bulunan tüm akademisyenlerin bilgileri eleştirilince ş
 
 # YAPTIKLARIM- ABT
 Emrenin çalıştığı excel deki hatalar düzeltildi çift isimler silindi ve yaptığı tüm çalışma düzeltilmiş excel ile tekrarlandı, hatalı olan analizler düzeltilip dosyalar güncellendi. Ek olarak aşağıdaki çalışmalar yapıldı;
+
 **Matched Datas için;**
 Faculty_of_Universities_number_of_titles: Üniversiteler özelinde fakültelerindeki makale sayıları tablosu
 gender_distribution_by_city: Şehirlere göre akademisyenelrin cinsiyet dağılımı 
