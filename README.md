@@ -1,3 +1,4 @@
 # Data_Analysis_All_Turkey
 
-Burada scopus ile türkiyede bulnan tüm üniler ile eşleşen tüm bilgiler var
+Scopus ile Türkiye'de bulunan tüm akademisyenlerin bilgileri eleştirilince şu sonuçlar elde edildi. .csvler elde edilen tüm sayısal veriler, png ler ise grafiğe çevrilmiş halleri vardır.
+
